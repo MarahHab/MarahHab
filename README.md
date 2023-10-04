@@ -19,7 +19,7 @@
     <img src="mail-icon.png" alt="Email Icon" width="25">
   </a>
   
-  <img width="15" />
+  <img width="20" />
   
   <a href="https://www.linkedin.com/in/marah-habashi-104263239/" target="_blank">
     <img src="linkedin-icon.png" alt="LinkedIn Icon" width="25">
