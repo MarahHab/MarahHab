@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="rest-api-icon.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="mongo.jpeg" height="40" alt="docker logo"  />
+  <img src="mongo-icon.jpeg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="aql-icon.png" height="40" alt="docker logo"  />
   <img width="12" />
