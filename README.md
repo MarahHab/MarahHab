@@ -4,6 +4,7 @@
 
 ###
 <div align="center">
+  <h5> Contact me: </h5>
   <a href="mailto:marah.hab2@gmail.com">
     <img src="mail-icon.png" alt="Email Icon" width="20">
   </a>
