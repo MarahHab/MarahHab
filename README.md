@@ -1,3 +1,27 @@
+<h1 align="center">
+  <span class="animated-text">My name is Marah Habashi 👋</span>
+</h1>
+
+<style>
+  .animated-text {
+    text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
+    animation: text-shadow-animation 2s infinite;
+  }
+
+  @keyframes text-shadow-animation {
+    0% {
+      text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
+    }
+    50% {
+      text-shadow: 0 0 5px #FF5733, 0 0 10px #FF5733, 0 0 15px #FF5733;
+    }
+    100% {
+      text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
+    }
+  }
+</style>
+
+
 <div align="center">
   <img height="150" src="giphy.gif"  />
 </div>
@@ -20,11 +44,9 @@
 
 
 
-<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
