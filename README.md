@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello! I'm Marah, a final semester Computer Science student. 💻 My coursework has provided me with a solid foundation in programming languages like Python, Java, JS, Spring boot, OOP, Node.js, HTML, CSS, React js, Express js, MySQL, and NoSQL. 🚀 Additionally, I have developed a deep understanding of QA methodologies, making me passionate about ensuring software quality. I'm excited to apply my skills to real-world challenges and contribute to delivering exceptional digital experiences. Let's connect and explore the possibilities together! 🌟</p>
 
 ###
 
