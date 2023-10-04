@@ -1,13 +1,10 @@
 <h1 align="center">
-  <span class="animated-text">My name is Marah Habashi 👋</span>
+  <span style="text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC; animation: text-shadow-animation 2s infinite;">
+    My name is Marah Habashi 👋
+  </span>
 </h1>
 
 <style>
-  .animated-text {
-    text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
-    animation: text-shadow-animation 2s infinite;
-  }
-
   @keyframes text-shadow-animation {
     0% {
       text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
@@ -20,6 +17,7 @@
     }
   }
 </style>
+
 
 
 <div align="center">
