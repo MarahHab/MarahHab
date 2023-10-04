@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC; animation: text-shadow-animation 2s infinite;">
+  <span style="color: #007ACC;">
     My name is Marah Habashi 👋
   </span>
 </h1>
