@@ -16,13 +16,13 @@
 
 
   <a href="mailto:marah.hab2@gmail.com">
-    <img src="mail-icon.png" alt="Email Icon" width="25">
+    <img src="mail-icon.png" alt="Email Icon" width="30">
   </a>
   
   <img width="20" />
   
   <a href="https://www.linkedin.com/in/marah-habashi-104263239/" target="_blank">
-    <img src="linkedin-icon.png" alt="LinkedIn Icon" width="25">
+    <img src="linkedin-icon.png" alt="LinkedIn Icon" width="30">
   </a>
 </div>
 
