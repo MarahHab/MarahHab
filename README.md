@@ -4,7 +4,9 @@
 
 ###
 <div align="center">
-  <h5 style="color: #007ACC; text-decoration: underline; font-size: 20px; font-weight: bold;"> Contact me:</h5>
+  
+### <h5 style="color: #007ACC; text-decoration: underline; font-size: 20px; font-weight: bold;">Contact me:</h5>
+
 
   <a href="mailto:marah.hab2@gmail.com">
     <img src="mail-icon.png" alt="Email Icon" width="20">
