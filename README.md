@@ -4,21 +4,6 @@
   </span>
 </h1>
 
-<style>
-  @keyframes text-shadow-animation {
-    0% {
-      text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
-    }
-    50% {
-      text-shadow: 0 0 5px #FF5733, 0 0 10px #FF5733, 0 0 15px #FF5733;
-    }
-    100% {
-      text-shadow: 0 0 5px #007ACC, 0 0 10px #007ACC, 0 0 15px #007ACC;
-    }
-  }
-</style>
-
-
 
 <div align="center">
   <img height="150" src="giphy.gif"  />
