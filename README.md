@@ -63,7 +63,6 @@
 ## Connect with me  
 <div align="center">
   
- <h5 style="color: #007ACC; text-decoration: underline; font-weight: bold;">Contact me:</h5>
 
 
   <a href="mailto:marah.hab2@gmail.com">
