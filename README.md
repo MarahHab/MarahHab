@@ -7,7 +7,7 @@
   
 
 <div align="center">I've earned a B.Sc. in Computer Science and have a strong passion for web development. With a solid foundation in computer science, I'm dedicated to leveraging my technical knowledge to create innovative and user-friendly web applications.  </div>  
-  
+
 
 <br/>  
 <div align="center">
