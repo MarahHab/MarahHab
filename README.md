@@ -3,7 +3,7 @@
 </div>  
   
 
-# <img src="https://media4.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"> Hi there, I'm Marah
+# <img src="hi.gif" width="30px"> Hi there, I'm Marah
   
 
 <div align="center">I've earned a B.Sc. in Computer Science and have a strong passion for web development. With a solid foundation in computer science, I'm dedicated to leveraging my technical knowledge to create innovative and user-friendly web applications.  </div>  
