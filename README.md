@@ -2,9 +2,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" align="center" style="width: 100%" />
 </div>  
 
-  <img src="hi.gif" alt="Hi" width="30px" />
   
-## Hi there , I'm Marah
+## Hi there , I'm Marah <img src="hi.gif" alt="Hi" width="30px" />
   
 
 <div align="center">I've earned a B.Sc. in Computer Science and have a strong passion for web development. With a solid foundation in computer science, I'm dedicated to leveraging my technical knowledge to create innovative and user-friendly web applications.  </div>  
