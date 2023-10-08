@@ -74,6 +74,12 @@
   <a href="https://www.linkedin.com/in/marah-habashi-104263239/" target="_blank">
     <img src="linkedin-icon.jpg" alt="LinkedIn Icon" width="40">
   </a>
+
+  <img width="15" />
+  
+   <a href="https://www.instagram.com/marah_faiad12/?next=%2F" target="_blank">
+    <img src="instagram-icon.jpg" alt="Instagram Icon" width="40">
+  </a>
 </div>
 
 
