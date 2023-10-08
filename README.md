@@ -63,8 +63,12 @@
 ## Connect with me  
 <div align="center">
   
+<a href="https://www.instagram.com/marah_faiad12/?next=%2F" target="_blank">
+    <img src="instagram-icon.png" alt="Instagram Icon" width="30">
+  </a>
 
-
+  <img width="15" />
+  
   <a href="mailto:marah.hab2@gmail.com">
     <img src="mail-icon.png" alt="Email Icon" width="30">
   </a>
@@ -75,11 +79,7 @@
     <img src="linkedin-icon.jpg" alt="LinkedIn Icon" width="40">
   </a>
 
-  <img width="15" />
-  
-   <a href="https://www.instagram.com/marah_faiad12/?next=%2F" target="_blank">
-    <img src="instagram-icon.png" alt="Instagram Icon" width="40">
-  </a>
+
 </div>
 
 
