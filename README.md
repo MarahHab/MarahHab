@@ -78,7 +78,7 @@
   <img width="15" />
   
    <a href="https://www.instagram.com/marah_faiad12/?next=%2F" target="_blank">
-    <img src="instagram-icon.jpg" alt="Instagram Icon" width="40">
+    <img src="instagram-icon.png" alt="Instagram Icon" width="40">
   </a>
 </div>
 
