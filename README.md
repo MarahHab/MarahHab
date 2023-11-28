@@ -27,7 +27,7 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>
-<a href="https://www.w3schools.com/jquery/default.asp" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjennycookconsulting.com%2Fjquery-icon-k.html&psig=AOvVaw3xt2GoNqf3gTp4rpBkeOhD&ust=1701242394617000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCwv_iT5oIDFQAAAAAdAAAAABAI" alt="jQuery" height="50" /></a>
+<a href="https://www.w3schools.com/jquery/default.asp" target="_blank"><img style="margin: 10px" src="https://image.pngaaa.com/799/6103799-middle.png" alt="jQuery" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
