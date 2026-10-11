@@ -5,7 +5,7 @@
   
 ## <h1 align="center">Hi there, I'm Marah👋</h1>
  
-<div align="center">I've earned a B.Sc. in Computer Science and have a strong passion for web development. With a solid foundation in computer science, I'm dedicated to leveraging my technical knowledge to create innovative and user-friendly web applications. </div>  
+<div align="center">B.Sc. in Computer Science with a background in web development and a growing focus on Data Analysis and Data Engineering. Passionate about working with data, uncovering insights, and building efficient data solutions. </div>  
 
 
 <br/>  
