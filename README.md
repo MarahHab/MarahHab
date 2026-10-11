@@ -30,14 +30,15 @@
 
 ### 🗄️ Databases & Data Engineering
 
-* MySQL
+* MySQL/ SQL
+* Postgres
 * Database Design & Querying
-* ETL Concepts *(Learning)*
-* Data Pipelines *(Future Focus)*
+* ETL Concepts 
+* Data Pipelines 
 
 ### 💻 Programming & Web Development
 
-* Python, Java, JavaScript
+* Python, Java, JavaScript, Typescript
 * HTML & CSS
 * React, Node.js, Express.js
 * MongoDB
@@ -46,7 +47,8 @@
 
 * Git & GitHub
 * VS Code
-* Excel *(Learning)*
+* Excel 
+* PowerPoint
 
 </div>
 
