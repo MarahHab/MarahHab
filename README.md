@@ -24,6 +24,7 @@
 
 * SQL
 * Python
+* R
 * Data Cleaning & Data Manipulation
 * Exploratory Data Analysis (EDA)
 * Data Visualization
@@ -34,7 +35,10 @@
 * Postgres
 * Database Design & Querying
 * ETL Concepts 
-* Data Pipelines 
+* Data Pipelines
+* Powe Query
+* Power Pivot
+* DAX 
 
 ### 💻 Programming & Web Development
 
@@ -49,6 +53,11 @@
 * VS Code
 * Excel 
 * PowerPoint
+* Power BI
+* Tableau
+* Jupiter Notebook
+* Google Colab
+  
 
 </div>
 
