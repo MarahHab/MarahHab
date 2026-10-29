@@ -55,7 +55,7 @@
 * PowerPoint
 * Power BI
 * Tableau
-* Jupiter Notebook
+* Jupyter Notebook
 * Google Colab
   
 
