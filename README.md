@@ -83,7 +83,7 @@
   
   <img width="15" />
   
-  <a href="https://www.linkedin.com/in/marah-habashi-104263239/" target="_blank">
+  <a href="www.linkedin.com/in/marah-hab-1642a8443" target="_blank">
     <img src="linkedin-icon.jpg" alt="LinkedIn Icon" width="40">
   </a>
 
